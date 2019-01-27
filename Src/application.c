@@ -139,7 +139,7 @@ void Application(void) {
 	  printf("who am i = %x\n", whoami);
 	  printf("recvdata[0] = %x\n", receiveData[0]);
 	  printf("recvdata[1] = %x\n", receiveData[1]);
-	  printf("-----\n");
+	  printf("---xxxx--\n");
 
 	//FOREVER {
 	while(1){
